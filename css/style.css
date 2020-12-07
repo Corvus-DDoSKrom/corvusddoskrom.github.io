@@ -22,7 +22,7 @@ a{
 .imagen{
 	background: url("/img/AD.png");
 	background-size: 300px;
-	background-position: center;
+	background-position: top;
 	background-repeat: no-repeat;
 }
 
