@@ -11,7 +11,7 @@ body{
 }
 
 .imagen{
-  background: url("../img/logo.png");
+  background: url("/img/logo.png");
   background-size: 150px;
   background-position: left center;
   background-repeat: no-repeat;
